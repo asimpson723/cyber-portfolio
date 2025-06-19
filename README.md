@@ -1,2 +1,3 @@
 # cyber-portfolio
-cybersecurity portfolio includes screenshots and documentation of incident reports, Linux shell, python, SQL and other supporting labs demonstrating my skillset
+Hello! Welcome to my cybsersecuirty/IT online portfolio
+Here you will find screenshots and explanations of various projects I've been working on to display my skillset
